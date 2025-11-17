@@ -36,6 +36,8 @@ An end-to-end AI-powered **Azure Infrastructure Self-Healing platform** that:
 
 ## 📂 Project Structure
 
+```text
+
 backend/   # FastAPI app
 frontend/  # React + TS app
 infra/     # Bicep templates & pipelines
